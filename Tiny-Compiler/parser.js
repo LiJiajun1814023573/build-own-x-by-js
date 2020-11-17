@@ -63,3 +63,5 @@
 
   return ast;
  }
+
+export default parser;
